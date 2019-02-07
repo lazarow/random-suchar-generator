@@ -15,11 +15,9 @@ const randomSucharGenerator = require('./randomSucharGenerator');
 randomSucharGenerator().then(
     suchar => {
         console.log(suchar);
-        expect(suchar).not.toEqual('');
     },
     error => {
         console.log(error);
-        expect(error).not.toEqual('');
     }
 );
 ```
