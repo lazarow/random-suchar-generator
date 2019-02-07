@@ -1,0 +1,14 @@
+{
+    "name": "random-suchar-generator",
+    "version": "0.0.1",
+    "description": "Generuje w postaci tekstowej lowosy suchar z serwisu suchaRRy.pl",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "follow-redirects": "^1.6.1",
+        "jsdom": "^13.2.0"
+    }
+}
