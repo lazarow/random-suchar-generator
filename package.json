@@ -1,6 +1,6 @@
 {
     "name": "random-suchar-generator",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Generuje w postaci tekstowej lowosy suchar z serwisu suchaRRy.pl",
     "main": "index.js",
     "scripts": {
